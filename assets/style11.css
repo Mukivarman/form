@@ -1,0 +1,68 @@
+body{
+    margin: 200px;
+}
+.h1{
+    background-image: url(./assets/i4.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding: 50px;
+    text-align: center;
+    border-radius: 30px;
+}
+.a1{
+    text-align: center;
+    background-image: url(./assets/i5.jpg);
+    border-radius: 30px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.a2{
+    text-align: center;
+    background-image: url(./assets/i7.jpg);
+    border-radius: 30px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.a3{
+    text-align: center;
+    background-color: darkturquoise;
+    border-radius: 30px;
+    background-image: url(./assets/i6.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+legend{
+    background-color: cornsilk;
+    box-shadow: 5px 5px 5px;
+    border-radius: 15px;
+}
+label{
+    background-color: rgb(244, 247, 250);
+    box-shadow: 5px 5px 5px;
+    border-radius:5px;
+}
+input{
+    box-shadow: 5px 5px 5px;
+    border-radius: 10px;
+}
+textarea{
+    border-radius: 15px;
+}
+select{
+    border-radius: 5px;
+}
+.button{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+    height: 50px;
+    border-radius: 30px;
+}
+.a{
+    background-color: blue;
+}

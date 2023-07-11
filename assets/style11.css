@@ -1,8 +1,8 @@
 body{
-    margin: 200px;
+    margin: auto;
 }
 .h1{
-    background-image: url(./assets/i4.jpg);
+    background-image: url(./i4.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -12,7 +12,7 @@ body{
 }
 .a1{
     text-align: center;
-    background-image: url(./assets/i5.jpg);
+    background-image: url(.i5.jpg);
     border-radius: 30px;
     background-repeat: no-repeat;
     background-size: cover;
@@ -20,7 +20,7 @@ body{
 }
 .a2{
     text-align: center;
-    background-image: url(./assets/i7.jpg);
+    background-image: url(./i7.jpg);
     border-radius: 30px;
     background-repeat: no-repeat;
     background-size: cover;
@@ -30,7 +30,7 @@ body{
     text-align: center;
     background-color: darkturquoise;
     border-radius: 30px;
-    background-image: url(./assets/i6.jpg);
+    background-image: url(./i6.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;

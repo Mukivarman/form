@@ -12,7 +12,7 @@ body{
 }
 .a1{
     text-align: center;
-    background-image: url(.i5.jpg);
+    background-image: url(./i5.jpg);
     border-radius: 30px;
     background-repeat: no-repeat;
     background-size: cover;
